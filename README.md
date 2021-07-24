@@ -2,7 +2,7 @@
 
 ## Como executar
 
-1 - Abra o arquivo **LGPD_Script.ipynb**
+1 - Abra o arquivo [LGPD_Script.ipynb](LGPD_Script.ipynb)
 
 2 - Importe no seu Google Colab
 
