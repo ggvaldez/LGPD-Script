@@ -3,7 +3,9 @@
 ## Como executar
 
 1 - Abra o arquivo **LGPD_Script.ipynb**
+
 2 - Importe no seu Google Colab
+
 3 - Siga as Instruções do Notebook
 
 # Autor
