@@ -4,7 +4,7 @@
 
 1 - Abra o arquivo [LGPD_Script.ipynb](LGPD_Script.ipynb)
 
-2 - Importe no seu Google Colab
+2 - Importe no seu Google Colab clicando em "Open in Colab"
 
 3 - Siga as Instruções do Notebook
 
